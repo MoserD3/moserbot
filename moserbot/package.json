@@ -1,0 +1,12 @@
+{
+  "name": "moserbot",
+  "version": "0.0.1",
+  "description": "Bot for discord",
+  "main": "moserbot.js",
+  "author": {
+    "name": "MoserD3"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
